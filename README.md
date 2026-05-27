@@ -18,7 +18,7 @@ The extension allows users to:
 ## Save Input
 Users can type notes or URLs and save them.
 
-## Save Current Tab
+## Save URL
 Users can save the current Chrome tab with one click.
 
 ## Persistent Storage
